@@ -1,3 +1,5 @@
+CI/CD funcionando correctamente ✔
+
 # CRUD API - NestJS con PostgreSQL
 
 API REST para gestión de productos desarrollada con NestJS, Prisma ORM y PostgreSQL. Este proyecto está diseñado para ser desplegado en Render.
